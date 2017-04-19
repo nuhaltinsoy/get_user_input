@@ -16,3 +16,5 @@ print((n))
 print("Try Again if the")
 print("Craic Is Shite:")
 print("********")
+
+#how do we let the user try again???
